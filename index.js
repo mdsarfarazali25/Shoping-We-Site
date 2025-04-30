@@ -53,7 +53,7 @@ axios.get("https://5d76bf96515d1a0014085cf9.mockapi.io/product").then((res) => {
 });
 
 function navigationpage(id) {
-  location.assign(`./Product.html?id=${id}`);
+  location.assign(`./product.html?id=${id}`);
 }
 function getItemsFromLS() {
   return JSON.parse(localStorage.getItem("cart"));
