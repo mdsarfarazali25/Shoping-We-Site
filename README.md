@@ -18,8 +18,10 @@ This e-commerce website built with **HTML, CSS, and JavaScript**. Includes produ
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript (ES6)
+- **Library**: BootStrap
 - **Version Control**: Git & GitHub
 - **Hosting**: GitHub Pages
+
 
 ---
 ## 📦 How to Use
